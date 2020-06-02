@@ -10,8 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-     "start" : "node pp.js" 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pp.js"   
   },
   "author": "",
   "license": "ISC"
